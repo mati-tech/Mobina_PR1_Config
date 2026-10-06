@@ -1,0 +1,6 @@
+name,parent,type,content
+home,/,dir,
+user,/home,dir,
+docs,/home/user,dir,
+test.txt,/home/user/docs,file,SGVsbG8gV29ybGQ=
+script.sh,/home/user,file,ZWNobyBIZWxsbw==
