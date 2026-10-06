@@ -54,5 +54,5 @@
 ### Сборка проекта
 Проект не требует компиляции. Достаточно клонировать репозиторий:
 ```bash
-git clone <ссылка-на-репозиторий>
-cd <имя-репозитория>
+git clone <https://github.com/mati-tech/Mobina_PR1_Config.git>
+cd <Mobina_PR1_Config>
